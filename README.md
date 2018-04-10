@@ -23,7 +23,7 @@ Spring boot | 简化配置  | [http://projects.spring.io/spring-boot/](http://pr
 Spring Framework | 容器  | [http://projects.spring.io/spring-framework/](http://projects.spring.io/spring-framework/)
 SpringMVC | MVC框架  | [http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#mvc](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#mvc)
 Spring session | 分布式Session管理  | [http://projects.spring.io/spring-session/](http://projects.spring.io/spring-session/)
-Apache Shiro | 安全框架  | [https://projects.spring.io/spring-security/](https://projects.spring.io/spring-security/)
+spring security | 安全框架  | [https://projects.spring.io/spring-security/](https://projects.spring.io/spring-security/)
 Apache Shiro | 安全框架  | [http://shiro.apache.org/](http://shiro.apache.org/)
 MyBatis | ORM框架  | [http://www.mybatis.org/mybatis-3/zh/index.html](http://www.mybatis.org/mybatis-3/zh/index.html)
 MyBatis Generator | 代码生成  | [http://www.mybatis.org/generator/index.html](http://www.mybatis.org/generator/index.html)
